@@ -3,6 +3,9 @@
 - 📚 Estudante de Sistemas de Informação
 - 👨🏻‍💻 Entusiasta de UX/UI
 
+(https://github-readme-stats.vercel.app/api?username=VictorhCastilho&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/VictorhCastilho/github-readme-stats)
+
+
 <!--
 **VictorhCastilho/VictorhCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
