@@ -3,9 +3,6 @@
 - 📚 Estudante de Sistemas de Informação
 - 👨🏻‍💻 Entusiasta de UX/UI
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorhCastilho&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/VictorhCastilho/github-readme-stats)
-&nbsp;&nbsp;&nbsp;
-
 ## Tecnologias
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,4 +21,7 @@
 <a href="https://br.linkedin.com/in/victor-hugo-castilho-b14863299?trk=people-guest_people_search-card" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:victorhugocastilhomachado@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorhCastilho&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/VictorhCastilho/github-readme-stats)
+&nbsp;&nbsp;&nbsp;
 
