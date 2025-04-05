@@ -3,7 +3,7 @@
 - 📚 Estudante de Sistemas de Informação
 - 👨🏻‍💻 Entusiasta de UX/UI
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guifritis&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/guifritis/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorhCastilho&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/VictorhCastilho/github-readme-stats)
 &nbsp;&nbsp;&nbsp;
 
 
