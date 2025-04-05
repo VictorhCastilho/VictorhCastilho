@@ -1,4 +1,7 @@
-## Hi there 👋
+## Eai, Victor Hugo aqui 👋
+
+- 📚 Estudante de Sistemas de Informação
+- 👨🏻‍💻 Entusiasta de UX/UI
 
 <!--
 **VictorhCastilho/VictorhCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
