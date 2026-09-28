@@ -23,7 +23,6 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorhCastilho&count_private=true&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/VictorhCastilho/github-readme-stats)
-&nbsp;&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=VictorhCastilho)](https://github.com/stats-organization/github-stats-extended)
 
 
