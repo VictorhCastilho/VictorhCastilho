@@ -23,6 +23,6 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=VictorhCastilho theme=tokyonight&hide=issues)](https://github.com/stats-organization/github-stats-extended)
+[![Victor's GitHub stats](https://github-stats-extended.vercel.app/api?username=VictorhCastilho&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 
