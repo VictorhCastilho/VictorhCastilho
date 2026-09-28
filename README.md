@@ -1,7 +1,6 @@
 ## Eai, Victor Hugo aqui 👋
 
-- 📚 Estudante de Sistemas de Informação
-- 👨🏻‍💻 Entusiasta de UX/UI
+- 📚 Formado em Sistemas de Informação
 
 ## Tecnologias
 
